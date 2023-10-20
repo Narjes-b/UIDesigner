@@ -1,0 +1,10 @@
+----------------------------------Remarks
+--------------------------------------------------------------------
+--Economy of the MUI :: you have  0  components, with  0  different types
+--Regularity of the MUI :: number of rows= 0 and number of columns= 0
+--Uniformity of the MUI :: Here is your widgets repartition on the MUI
+      - UL has 0 widget(s) / UR has 0 widget(s) /LL has 0 widget(s) /LR has 0 widget(s) 
+
+
+
+

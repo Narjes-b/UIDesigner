@@ -1,0 +1,47 @@
+----------------------------------
+Metrics
+--------------------------------------------------------------------
+Uniformity = 0.0
+ Complexity= 0.0
+ Simplicity= 0.0
+ Sequence= 0.0
+ Regularity= 0.0
+ Integrality= 0.0
+ Density= 0.0
+ Economy= 0.0
+ Clarity= 0.0
+ Unity= 0.0
+ Cohesion= 0.0
+ Balance=  0.0
+ Grouping= 0.0
+ Homogeneity= 0.0
+Number of elements= 0.0
+--------------------------------------------------------------------
+Remarks
+--------------------------------------------------------------------
+--Economy of the MUI :: you have  0  components, with  0  different types
+--Regularity of the MUI :: number of rows= 0 and number of columns= 0
+--Uniformity of the MUI :: Here is your widgets repartition on the MUI
+      - UL has 0 widget(s) / UR has 0 widget(s) /LL has 0 widget(s) /LR has 0 widget(s) 
+
+
+
+
+--------------------------------------------------------------------
+Defects
+--------------------------------------------------------------------
+-----------------------------------------------------------------------------
+----------------------------------------------
+Defect                         Status 
+----------------------------------------------
+Overloaded MUI                     null
+----------------------------------------------
+Imbalanced MUI                     null
+----------------------------------------------
+InCohesion of MUI                  null
+----------------------------------------------
+Incorrect layout of MUI            null
+----------------------------------------------
+Difficult navigation               null
+----------------------------------------------
+
